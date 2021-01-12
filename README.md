@@ -1,2 +1,0 @@
-# Individual-Projects
-SooDaPeople HW
